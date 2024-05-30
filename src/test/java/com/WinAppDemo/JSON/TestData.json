@@ -1,0 +1,7 @@
+{
+  "platformVersion" : "10",
+  "platformName" : "Windows",
+  "WAPPath" : "C:\\Program Files\\Windows Application Driver\\WinAppDriver.exe",
+  "WAPUrl" : "http://localhost:4723/",
+  "AUMID" : "Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"
+}

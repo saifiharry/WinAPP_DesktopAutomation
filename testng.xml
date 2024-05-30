@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+    <listeners>
+        <listener class-name="com.WinAppDemo.ExtentListener"> </listener>
+    </listeners>
+
+    <test name="JSONTestCase">
+        <classes>
+            <class name="com.WinAppDemo.JSON.CalculatorJSON"/>
+        </classes>
+    </test>
+
+    <test name="PDFTestCase">
+        <classes>
+            <class name="com.WinAppDemo.PDF.CalculatorPDF"/>
+        </classes>
+    </test>
+
+    <test name="XMLTestCase">
+        <classes>
+            <class name="com.WinAppDemo.XML.CalculatorXML"/>
+        </classes>
+    </test>
+
+    <test name="NoTestDataTestCase">
+        <classes>
+            <class name="com.WinAppDemo.Calculator"/>
+        </classes>
+    </test>
+
+</suite>

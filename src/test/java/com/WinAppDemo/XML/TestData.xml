@@ -1,0 +1,8 @@
+<Capabilities>
+    <platformVersion value = "10" />
+    <platformName value="Windows"/>
+    <WAPPath value = "C:\\Program Files\\Windows Application Driver\\WinAppDriver.exe"/>
+    <WAPUrl value ="http://localhost:4723/"/>
+    <AUMID value ="Microsoft.WindowsCalculator_8wekyb3d8bbwe!App"/>
+</Capabilities>
+
